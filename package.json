@@ -1,6 +1,6 @@
 {
   "name": "alerta-node-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Node.js client for the Alerta.io API",
   "type": "module",
   "main": "dist/cjs/index.js",
