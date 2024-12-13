@@ -1,0 +1,16 @@
+node_modules
+node_modules/*
+./coverage
+./coverage/*
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+coverage
+.nyc_output
+package-lock.json
